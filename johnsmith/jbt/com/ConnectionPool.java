@@ -1,5 +1,9 @@
 package johnsmith.jbt.com;
 
-public class ConnectionPool {
+import java.awt.List;
 
+public class ConnectionPool {
+	
+	List<Connection> connPool=new ArrayList<>;
+	
 }
